@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Pig</string>
+
+    <!-- Main Game Screen -->
+    <string name="game_title">PIG</string>
+    <string name="about_button">About</string>
+    <string name="player_label">You</string>
+    <string name="computer_label">Computer</string>
+    <string name="games_won_label">Games Won</string>
+    <string name="total_score_label">Total Score</string>
+    <string name="turn_total_label">Turn Total</string>
+    <string name="dice_total_label">Dice Total</string>
+    <string name="roll_button">ROLL</string>
+    <string name="hold_button">HOLD</string>
+
+    <!-- Content Descriptions -->
+    <string name="dice_showing">Dice %1$d showing %2$d</string>
+    <string name="winner_image">Winner image</string>
+    <string name="loser_image">Loser image</string>
+
+    <!-- Game Over Screen -->
+    <string name="you_win">🎉 YOU WIN! 🎉</string>
+    <string name="you_lose">😞 YOU LOSE 😞</string>
+    <string name="winner">WINNER!</string>
+    <string name="another">Another?</string>
+    <string name="tap_to_play_again">Tap anywhere to play again</string>
+
+    <!-- About Screen -->
+    <string name="about_title">PIG Dice Game</string>
+    <string name="version">Version 1.0</string>
+    <string name="developer_label">Developer:</string>
+    <string name="developer_name">Taylor Bethke</string>
+    <string name="education_title">🎓 Education</string>
+    <string name="education_course">CIS217 - Spokane Community College</string>
+    <string name="education_term">Fall 2025</string>
+    <string name="education_status">Graduating after Winter Quarter</string>
+    <string name="about_me_title">💻 About Me</string>
+    <string name="about_me_description">I\'m a full-stack developer passionate about desktop and mobile applications, modular UI, and the pursuit of clean, maintainable code and documentation that doesn\'t suck.</string>
+    <string name="tech_stack_title">🛠 Tech Stack</string>
+    <string name="languages_frameworks_label">Languages &amp; Frameworks:</string>
+    <string name="languages_list">C# (.NET/WPF), C++, Rust, Kotlin, PHP, React (JSX), SQL, GO, Python, HTML5 &amp; CSS, TypeScript</string>
+    <string name="platforms_label">Platforms:</string>
+    <string name="platforms_list">Windows 11, MacOS, Linux</string>
+    <string name="about_button_label">About</string>
+    <string name="contact_button_label">Contact</string>
+    <string name="tap_to_start">Tap anywhere to start playing</string>
+    <string name="copyright">© 2025 Taylor - All Rights Reserved</string>
+
+    <!-- Settings -->
+    <string name="settings_button">Settings</string>
+    <string name="settings_title">Game Settings</string>
+    <string name="winning_score_label">Winning Score:</string>
+    <string name="save_button">Save</string>
+    <string name="cancel_button">Cancel</string>
+
+    <!-- Leaderboard -->
+    <string name="leaderboard_title">Pig Leader Board</string>
+    <string name="leaderboard_button">Leaderboard</string>
+    <string name="play_game_button">PLAY GAME</string>
+    <string name="no_games_yet">No games played yet. Start playing to see your results!</string>
+</resources>

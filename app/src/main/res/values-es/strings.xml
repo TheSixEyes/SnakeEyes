@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Cerdo</string>
+
+    <!-- Main Game Screen -->
+    <string name="game_title">CERDO</string>
+    <string name="about_button">Acerca de</string>
+    <string name="player_label">Tú</string>
+    <string name="computer_label">Computadora</string>
+    <string name="games_won_label">Juegos Ganados</string>
+    <string name="total_score_label">Puntuación Total</string>
+    <string name="turn_total_label">Total del Turno</string>
+    <string name="dice_total_label">Total de Dados</string>
+    <string name="roll_button">TIRAR</string>
+    <string name="hold_button">MANTENER</string>
+
+    <!-- Content Descriptions -->
+    <string name="dice_showing">Dado %1$d mostrando %2$d</string>
+    <string name="winner_image">Imagen de ganador</string>
+    <string name="loser_image">Imagen de perdedor</string>
+
+    <!-- Game Over Screen -->
+    <string name="you_win">¡Has ganado!</string>
+    <string name="you_lose">Has perdido</string>
+    <string name="winner">Ganador</string>
+    <string name="another">¿Otra?</string>
+    <string name="tap_to_play_again">Toca en cualquier lugar para jugar de nuevo</string>
+
+    <!-- About Screen -->
+    <string name="about_title">CERDO</string>
+    <string name="version">Versión 1.0</string>
+    <string name="developer_label">Desarrollador:</string>
+    <string name="developer_name">Taylor Bethke</string>
+    <string name="education_title">🎓 Educación</string>
+    <string name="education_course">CIS217 - Spokane Community College</string>
+    <string name="education_term">Otoño 2025</string>
+    <string name="education_status">Graduándose después del trimestre de invierno</string>
+    <string name="about_me_title">💻 Acerca de Mí</string>
+    <string name="about_me_description">Soy un desarrollador full-stack apasionado por las aplicaciones de escritorio y móviles, la interfaz de usuario modular y la búsqueda de código limpio y mantenible y documentación que no apesta.</string>
+    <string name="tech_stack_title">🛠 Pila Tecnológica</string>
+    <string name="languages_frameworks_label">Lenguajes y Frameworks:</string>
+    <string name="languages_list">C# (.NET/WPF), C++, Rust, Kotlin, PHP, React (JSX), SQL, GO, Python, HTML5 y CSS, TypeScript</string>
+    <string name="platforms_label">Plataformas:</string>
+    <string name="platforms_list">Windows 11, MacOS, Linux</string>
+    <string name="about_button_label">Acerca de</string>
+    <string name="contact_button_label">Contacto</string>
+    <string name="tap_to_start">Toca en cualquier lugar para comenzar a jugar</string>
+    <string name="copyright">© 2025 Taylor - Todos los Derechos Reservados</string>
+
+    <!-- Settings -->
+    <string name="settings_button">Ajustes</string>
+    <string name="settings_title">Configuración del Juego</string>
+    <string name="winning_score_label">Puntuación Ganadora:</string>
+    <string name="save_button">Guardar</string>
+    <string name="cancel_button">Cancelar</string>
+
+    <!-- Leaderboard -->
+    <string name="leaderboard_title">Tabla de Líderes de Cerdo</string>
+    <string name="leaderboard_button">Tabla de Líderes</string>
+    <string name="play_game_button">JUGAR</string>
+    <string name="no_games_yet">No se han jugado juegos todavía. ¡Comienza a jugar para ver tus resultados!</string>
+</resources>
